@@ -28,4 +28,4 @@ Probably this will work with the most browsers, but here is a list which browser
 |     Firefox    |     ✅     |
 |     Chrome     |     ✅     |
 
-Project is Developed By:[Rushi Patel:(https://www.linkedin.com/in/rushi-patel-193079266/)
+Project is Developed By:[Rushi Patel]:(https://www.linkedin.com/in/rushi-patel-193079266/)
